@@ -1,0 +1,17 @@
+.DS_Store
+notebooks/calculus
+notebooks/calculus_english_to_latex
+notebooks/english_to_latex
+notebooks/gpt2_multitask
+notebooks/gpt2_pds
+notebooks/image_captioning
+notebooks/calculus
+notebooks/profoz
+notebooks/qa
+notebooks/results
+notebooks/snips_clf
+notebooks/ir
+notebooks/snips_tok_clf
+notebooks/t5_summary_results
+notebooks/toxicity
+notebooks/calculus
