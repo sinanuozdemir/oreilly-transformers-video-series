@@ -78,3 +78,9 @@
 - 13.1 Introduction to MLOps (20 min)
 - 13.2 Sharing our models on HuggingFace (15 min)
 - 13.3 Deploying a fine-tuned BERT model using FastAPI (25 min)
+
+**Lesson 14: Using Massively Large Language Models (1h)**
+
+- 14.1 Modern Large Language Models (20 min)
+- 14.2 GPT-3 + ChatGPT (15 min)
+- 14.3 Other LLMs + Semantic Search with OpenAI Embeddings (25 min)
